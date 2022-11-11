@@ -1,0 +1,1 @@
+web: gunicorn Baabtrawebsite.wsgi --log-file -
